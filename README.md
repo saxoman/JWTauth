@@ -1,0 +1,2 @@
+# JWTauth
+Laravel JWT Authentication
